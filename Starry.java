@@ -5,6 +5,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * Problem statement at http://olympiads.win.tue.nl/ioi/ioi98/contest/day1/starry/starry.html
+ */
+
 public class Starry {
     
     static int[][] map;
